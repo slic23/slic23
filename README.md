@@ -21,9 +21,7 @@
   <a href="https://linkedin.com/in/issam-ramdani-9b5349302/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.hackerrank.com/socrates98/hackos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40" width="40" style="margin-right: 10px;"/>
-  </a>
+
 </p>
 
 <!-- Hackerrank Badge -->
