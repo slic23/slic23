@@ -21,6 +21,13 @@
   </a>
 </p>
 
+<h3 align="center">My Hackerrank Badge:</h3>
+<p align="center">
+  <a href="https://www.hackerrank.com/socrates98/hackos" target="blank">
+    <img src="https://www.hackerrank.com/badges/socrates98/hackos" alt="Hackerrank Badge" height="40" width="150" />
+  </a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
