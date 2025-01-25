@@ -76,12 +76,3 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 22px; color: #444;">My Stats:</h3>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slic23&show_icons=true&locale=en&layout=compact" alt="slic23" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slic23&show_icons=true&locale=en" alt="slic23" />
-</p>
