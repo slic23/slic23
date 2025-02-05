@@ -8,7 +8,7 @@
 
 <!-- Main Info -->
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555;">
-  - 🔭 I’m currently working on <a href="https://github.com/slic23/Gestorator" style="color: #0e75b6;">Gestarator</a><br>
+  - 🔭 I’m currently working on <a href="https://github.com/slic23/Django-Projects-for-beginners/tree/djangoProyectosIssam/ListaTodo" style="color: #0e75b6;">Todo list in Django </a><br>
   - 🌱 I’m currently learning <strong>Django</strong><br>
   - 💬 Ask me about <strong>Django</strong><br>
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/issam-ramdani-9b5349302/" target="blank" style="color: #0e75b6;">LinkedIn</a><br>
